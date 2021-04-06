@@ -1,0 +1,55 @@
+div.icon{
+	margin-left: 30px;
+	width:50px;
+	float:left;
+	padding-right: 20px;
+}
+div.head{
+	margin:0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	border: 0px 0px 0px 0px;
+	background-color: green;
+	width:1800px;
+	height: 150px;
+	font:sans-serif;
+
+	
+}
+div.container{
+		margin: 0px 0px 0px 0px;
+		padding: 0px 0px 0px 0px;
+		border :0px 0px 0px 0px;
+		
+
+}
+
+div.what{
+	float:left;
+	padding: 20px;
+	width: 500px;
+	margin: 17px 60px 30px 50px;
+}
+
+div.info{
+	border-radius:20px;
+	float: left;
+	padding: 20px;
+	width: 300px;
+	height: 320px;
+	margin: 20px 30px 30px 50px; 
+	background-color: #484848;
+
+}
+button{
+		width: 265px;
+		padding: 10px;
+		background-color: red;
+		font color: white;
+	}
+
+
+input{
+	width: 240px;
+	padding :10px;
+
+}
